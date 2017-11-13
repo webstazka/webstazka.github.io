@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sitename</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on sitename</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2015 yourname.</copyright>
+    <lastBuildDate>Mon, 13 Nov 2017 22:36:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 13 Nov 2017 22:36:21 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/about/</guid>
+      <description>O nás</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://www.example.com/home/</link>
+      <pubDate>Mon, 13 Nov 2017 22:32:14 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>http://www.example.com/home/</guid>
+      <description>Enter code here</description>
+    </item>
+    
+  </channel>
+</rss>
