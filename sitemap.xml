@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://webstazka.github.io/kontakt/</loc>
+    <loc>https://webstazka.github.io/index.html/kontakt/</loc>
     <lastmod>2017-11-13T23:09:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://webstazka.github.io/about/</loc>
+    <loc>https://webstazka.github.io/index.html/about/</loc>
   </url>
   
   <url>
-    <loc>https://webstazka.github.io/home/</loc>
+    <loc>https://webstazka.github.io/index.html/home/</loc>
   </url>
   
   <url>
-    <loc>https://webstazka.github.io/</loc>
+    <loc>https://webstazka.github.io/index.html/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://webstazka.github.io/index.html/</loc>
     <lastmod>2017-11-13T23:09:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://webstazka.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://webstazka.github.io/topics/</loc>
+    <loc>https://webstazka.github.io/index.html/tags/</loc>
     <priority>0</priority>
   </url>
   
